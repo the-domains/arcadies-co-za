@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: arcadies.co.za
 favicon: null
+name: arcadies.co.za
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.7275985
-layout_spectrum: 0.4853269995655864
+layout_spectrum: 1
