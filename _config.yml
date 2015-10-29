@@ -2,6 +2,7 @@ name: arcadies.co.za
 favicon: null
 layout_spectrum: 0.48532699956558645
 typography_spectrum: 0.7695643315091729
+title: arcadies
 cta:
   domain: null
   bucket: null
