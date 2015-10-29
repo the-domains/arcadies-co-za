@@ -1,29 +1,41 @@
-name: arcadies.co.za
-favicon: null
-layout_spectrum: 0.48532699956558645
-typography_spectrum: 0.7695643315091729
 title: arcadies
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5039417394436896
+  brandStrength: 0
+  rhythmicContrast: 0.05835505807772279
   brandColors:
     - '#ffffff'
     - '#2c2b30'
     - '#ad1c1f'
     - '#b9a582'
     - '#7a6844'
-  brandStrength: 0
   lightness: 0.6866727322340012
-  saturation: 0.5039417394436896
-  rhythmicContrast: 0.05835505807772279
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: arcadies.co.za
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7275985
+layout_spectrum: 0.4853269995655864
