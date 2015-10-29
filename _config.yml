@@ -1,0 +1,23 @@
+name: arcadies.co.za
+favicon: null
+layout_spectrum: 0.48532699956558645
+typography_spectrum: 0.7695643315091729
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7510660286061466
+  lightness: 0.6866727322340012
+  saturation: 0.5039417394436896
+  rhythmicContrast: 0.05835505807772279
+purpose: []
