@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[arcadies]]></title>
+        <description><![CDATA[arcadies]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Oct 2015 12:00:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This one tomorro]]></title>
+            <description><![CDATA[<article><h1>This one tomorro</h1><p>homepageness</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5736e41-a8b6-4385-b8e7-e78abb6262af.jpg"></article>]]></description>
+            <link>undefinedthis-one-tomorro/index.html</link>
+            <guid isPermaLink="false">7c9dfa0f-a116-4c98-b7e0-57f946943fb5</guid>
+            <pubDate>Fri, 30 Oct 2015 12:00:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
