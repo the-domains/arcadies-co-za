@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5039417394436896
-  lightness: 0.6866727322340012
   brandStrength: 0.7060932
+  rhythmicContrast: 0.05835505807772279
   brandColors:
     - '#171614'
     - '#E0E9F3'
     - '#B49887'
     - '#5C667F'
     - '#B3774C'
-  rhythmicContrast: 0.05835505807772279
+  lightness: 0.6866727322340012
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: arcadies.co.za
 favicon: null
+name: arcadies.co.za
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.7275985
-layout_spectrum: 0.2329749
+layout_spectrum: 0.5591398
